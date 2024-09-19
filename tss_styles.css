@@ -33,7 +33,7 @@ h1 {
     color: white; 
     background-color: rgb(222, 128, 60); 
    } 
-   
+
    h2 {
     color: white; 
     background-color: rgb(235, 177, 131);
@@ -42,7 +42,9 @@ h1 {
 
 
 /* Aside and Blockquote Styles */
-
+aside blockquote {
+     color: rgb(232, 165, 116);
+}
 
 
 
